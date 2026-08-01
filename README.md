@@ -25,7 +25,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+
 
 ---
 
